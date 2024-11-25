@@ -1,0 +1,4 @@
+{
+  "name": "testing-dependency-method-with-yarn-modern",
+  "packageManager": "yarn@4.5.3"
+}
