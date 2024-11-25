@@ -1,0 +1,9 @@
+{
+  "include": ["*"],
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "moduleResolution": "nodenext",
+    "module": "ESNext",
+    "target": "ESNext",
+  }
+}
